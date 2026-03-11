@@ -1,0 +1,6 @@
+propvenv/
+__pycache__/
+*.pyc
+*.csv
+.env
+credentials.json
